@@ -1,4 +1,4 @@
-# Squarefield
+# Platformer iMi
 1. Tytuł - Squarefield
 
 2. Gatunek - zręcznościowa/ (2D)
